@@ -10,17 +10,16 @@ A full-featured library management system designed to handle book inventories, u
 - **Spring Security + JWT** (authentication & authorization)
 - **MySQL** (relational database)
 - **Maven** (build tool)
-- 
 ## 📂 Project Structure
 src/main/java/com/javainuse
 │
-├── config/ # Security & JWT configurations
-├── controller/ # REST API endpoints
-├── dto/ # Data Transfer Objects
-├── model/ # Entities (User, Book, Author, Category, etc.)
-├── repository/ # JPA repositories
-├── service/ # Business logic
-└── LibraryApplication.java
+├── - config/ # Security & JWT configurations
+├── - controller/ # REST API endpoints
+├── - dto/ # Data Transfer Objects
+├── - model/ # Entities (User, Book, Author, Category, etc.)
+├── - repository/ # JPA repositories
+├── - service/ # Business logic
+└── - LibraryApplication.java
 
 ## ✨ Features
 
