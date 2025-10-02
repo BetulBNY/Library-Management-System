@@ -36,13 +36,13 @@ src/main/java/com/javainuse
 
 ## 📌 API Test Screenshots (Postman)
 ### Create User
-![Create User](docs/createUser.jpg)
+![Create User](docs/createUser.png)
 
 ### Sample
-![Less Than](docs/lessthan.jpg)
+![Less Than](docs/lessthan.png)
 
 ### Other Requests
-![Requests](docs/postmanrequests)
+![Requests](docs/postmanrequests.png)
 
 
 
